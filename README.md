@@ -1,6 +1,8 @@
 # twst-furniture-renamer
 Renames furniture files from twst of the `furniture_1234567_l` name to `Furniture_1234567`.png
+
 Decodes and renames files in .txt format
+
 Displays count of files processed at the end of the run
 
 ## v1.15 exclusive
