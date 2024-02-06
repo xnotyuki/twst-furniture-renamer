@@ -12,6 +12,6 @@ Also moves .txt files in source folder into another `furnituretxt` folder to kee
 3. Enter `py furniture_rename.py` into command line to use (Windows)
 
 # Restrictions
-Ignores all files that do not follow the naming convention.
+- Ignores all files that do not follow the naming convention.
 Do not rename target files prior to use.
-(v1.15) If the same .txt file exists in both the source and `furnituretxt` folder, the source folder copy will not be moved.
+- (v1.15) If the same .txt file exists in both the source and `furnituretxt` folder, the source folder copy will not be moved.
